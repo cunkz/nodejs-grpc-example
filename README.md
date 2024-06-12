@@ -4,4 +4,4 @@ The purpose of this repository is to collect and study for personal use. If you 
 
 |Folder|Documentation|
 |--|--|
-|[quick](quick/README.md)|[https://grpc.io/docs/languages/node/quickstart](https://grpc.io/docs/languages/node/quickstart)|
+|[quick](quick)|[https://grpc.io/docs/languages/node/quickstart](https://grpc.io/docs/languages/node/quickstart)|
