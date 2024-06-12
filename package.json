@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cunkz/nodejs-grpc-example#readme",
   "dependencies": {
-    "@grpc/grpc-js": "^1.10.8"
+    "@grpc/grpc-js": "^1.10.8",
+    "minimist": "^1.2.8"
   }
 }
